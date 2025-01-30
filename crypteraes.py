@@ -2,6 +2,7 @@ import subprocess
 import pyaes
 import os
 
+# Altere a chave (precisa ter 16 caracteres de tamanho)
 KEY = b'chavefoda1abcdef'
 print("""
   sSSs   .S_sSSs     .S S.    .S_sSSs    sdSS_SSSSSSbs    sSSs   .S_sSSs    
